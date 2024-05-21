@@ -20,7 +20,7 @@ kill enemies to enter new realms.
 
 ### Gameplay
 - Control Pac-Man with Arrow keys.
-- Press the spacebar to jump and Z to attack.
+- Press the spacebar to jump and Z to attack, C to slide and X to kick.
 - Navigate through levels, defeat enemies.
   
 ## Instructions 
