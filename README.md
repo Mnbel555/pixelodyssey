@@ -1,16 +1,13 @@
 # pixelodyssey
 ## Introduction
-This practical work is delivery document for class of Video Game Development Techniques of the course of Engineering in Digital Game Development, proposed by Professor Daniel Nogueira. The work has several tasks and objectives given by teacher:
-* A brief description of the game.
-* Decisions made in development of game.
-* The game instructions.
-* Brief analysis and Organization of the files and code.
+This practical work is delivery document for class of Video Game Development Techniques of the course of Engineering in Digital Game Development, proposed by Professor Daniel Nogueira. The work has several tasks and objectives given by teacher
 
 # The game "PixelOdyssey"
+![character](https://github.com/Mnbel555/pixelodyssey/assets/125232753/74e83f43-766b-4570-a7f1-717f02884061)
 
 
 ## Introduction
-Pixel odyssey is a side-scrolling video game  developed using the MonoGame framework in C#; the player kills the enemies and enters new worlds (levels) to find hidden key to open vault for the cure of virus. The objective of the game is to kill enemies to move further into new levels adn collect coins for points. Although this is not a complete game just an implementation of a basic side scrolling game
+Pixel odyssey is a side-scrolling video game  developed using the MonoGame framework in C#; the player kills the enemies and enters new worlds (levels) to find hidden key to find vault for the cure of virus. The objective of the game is to kill enemies to move further into new levels and maintain scores points. Although this is not a complete game just an implementation of a side scrolling game
 
 ## Mechanism 
  The game features a player-controlled character navigating through levels while defeating enemies.. If Player interact with enemy, he loses a life.
@@ -19,7 +16,7 @@ Pixel odyssey is a side-scrolling video game  developed using the MonoGame frame
 kill enemies to enter new realms.
 
 ### Gameplay
-- Control Pac-Man with Arrow keys.
+- Control Cruis with Arrow keys.
 - Press the spacebar to jump and Z to attack, C to slide and X to kick.
 - Navigate through levels, defeat enemies.
   
