@@ -2,7 +2,7 @@
 ## Introduction
 This practical work is delivery document for class of Video Game Development Techniques of the course of Engineering in Digital Game Development, proposed by Professor Daniel Nogueira. The work has several tasks and objectives given by teacher
 
-# The game "PixelOdyssey"
+# The game "[Pacman](https://github.com/Mnbel555/PIxlOdyssey)"
 ![character](https://github.com/Mnbel555/pixelodyssey/assets/125232753/74e83f43-766b-4570-a7f1-717f02884061)
 
 
